@@ -1,0 +1,24 @@
+	bray	method	days
+XWF4M1R1	0.51	aLake Xuanwu	30 days
+XWF4M3R1	0.562982005	aLake Xuanwu	90 days
+XWF4M3R2	0.508379888	aLake Xuanwu	90 days
+XWF4M3R3	0.514824798	aLake Xuanwu	90 days
+XWF4M6R1	0.569682152	aLake Xuanwu	980 days
+XWF4M6R2	0.54587156	aLake Xuanwu	980 days
+XWF4M6R3	0.599164927	aLake Xuanwu	980 days
+CHF4M1R1	0.505882353	bLake Chaohu	30 days
+CHF4M3R1	0.586206897	bLake Chaohu	90 days
+CHF4M3R2	0.748466258	bLake Chaohu	90 days
+CHF4M3R3	0.576190476	bLake Chaohu	90 days
+CHF4M6R1	0.502262443	bLake Chaohu	980 days
+CHF4M6R2	0.50660793	bLake Chaohu	980 days
+CHF4M6R3	0.4784689	bLake Chaohu	980 days
+APF4M1R1	0.451327434	cArtificial pond	30 days
+APF4M1R2	0.456842105	cArtificial pond	30 days
+APF4M1R3	0.512974052	cArtificial pond	30 days
+APF4M3R1	0.328063241	cArtificial pond	90 days
+APF4M3R2	0.334653465	cArtificial pond	90 days
+APF4M3R3	0.333333333	cArtificial pond	90 days
+APF4M6R1	0.313207547	cArtificial pond	980 days
+APF4M6R2	0.317073171	cArtificial pond	980 days
+APF4M6R3	0.321138211	cArtificial pond	980 days
